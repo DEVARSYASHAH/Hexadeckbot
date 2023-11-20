@@ -31,10 +31,10 @@ This is the open-source repository for the CounselBot web-app.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-CounselBot.git
+        gh repo clone DEVARSYASHAH/Hexadeckbot
 - Enter The directory: 
 
-        cd Hacknight-CounselBot
+        cd Hexadeckbot
 - Run the Python setup:
         
         python setup.py
