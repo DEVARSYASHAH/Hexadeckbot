@@ -1,13 +1,13 @@
 # Welcome to Hexadeckbot
 Hexadeckbot is a web-based application to help students to make effective career choices.
 It is a very user-friendly platform which will surely be very easy to use and a powerful tool for all students.
-## Use CounselBot to:
+## Use Hexadeckbot to:
 - Getting answers to general questions related to colleges and all the streams
 - Take an in-depth quiz to find more bout yourself and career suitable for you
 - Get a very detailed report which will provide you info about the top 5 professions you are inclined to.
 
-CounselBot Web-app runs on Windows, Linux, Mac and even Android. It is a web application that can easily be moulded according to our needs. It has this flexibility as it uses Streamlit as its platform.
-This is the open-source repository for the CounselBot web-app. 
+Hexadeckbot Web-app runs on Windows, Linux, Mac and even Android. It is a web application that can easily be moulded according to our needs. It has this flexibility as it uses Streamlit as its platform.
+This is the open-source repository for the Hexadeckbott web-app. 
 
 ![](img/21.png)
 
